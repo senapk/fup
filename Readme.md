@@ -2,11 +2,10 @@
 
 <!--TOC_BEGIN-->
 - [Links](#links)
-- [Recursos Estrutura de Dados](#recursos-estrutura-de-dados)
-- [Recursos Git](#recursos-git)
-- [S01 - Estressados](#s01---estressados)
-- [S02 - Princesa](#s02---princesa)
-- [S03 - Recursão](#s03---recursão)
+- [Recursos Fundamentos de Programação](#recursos-fundamentos-de-programação)
+- [Cursos completos de C++ do youtube em português](#cursos-completos-de-c-do-youtube-em-português)
+- [S01 - Introdução](#s01---introdução)
+- [S02](#s02)
 <!--TOC_END-->
 
 ## Links
