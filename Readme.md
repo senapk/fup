@@ -11,7 +11,7 @@
 
 ## Links
 - [Telegram](https://t.me/+GrYPt8qQWQdiNWVh)
-- [Planilha de Notas e Presença](https://docs.google.com/spreadsheets/d/1Bw1Owo5K0V-ue58UmPLvohrLdW4ZrY-9ZMr6_p-wWGM/edit?usp=sharing)
+- [Planilha de Notas e Presença](https://docs.google.com/spreadsheets/d/10udv5GJ-QYqle78bvm2Tummfaj-0EYOPsiLPEKzOpuw/edit?usp=sharing)
 
 ## Recursos Fundamentos de Programação
 - [IDE Online](http://replit.com)
