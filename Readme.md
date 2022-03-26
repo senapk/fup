@@ -9,7 +9,7 @@
 <!--TOC_END-->
 
 ## Links
-- [Telegram](https://t.me/+GrYPt8qQWQdiNWVh)
+- [Telegram](https://t.me/+zrcrLWObex8wZmNh)
 - [Planilha de Notas e Presença](https://docs.google.com/spreadsheets/d/10udv5GJ-QYqle78bvm2Tummfaj-0EYOPsiLPEKzOpuw/edit?usp=sharing)
 
 ## Recursos Fundamentos de Programação
