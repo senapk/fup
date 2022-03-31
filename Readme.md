@@ -30,6 +30,6 @@
 
 ## S02 - Perfil e Primeiros exercícios
 - [ ] Perfil: Me manda uma mensagem pelo Telegram no privado @senapk informando os [seguintes dados](pages/perfil.md#dados).
-- [ ] Assita os vídeos sobre **Variáveis** e sobre **Entrada e Saída** da playlist da disciplina no youtube.
+- [ ] Assita os vídeos sobre **Variáveis** e sobre **Entrada e Saída** da [playlist](https://youtube.com/playlist?list=PLqwyjBSVOHRzfXMEJR63RT56ROtk5f6tN) da disciplina no youtube.
 - [ ] Se inscreva no [Neps Academy](https://neps.academy/) e faça os seguintes [exercícios](pages/intro_neps.md#exercícios-iniciais).
 - Se quiser fazer outros livremente, pode escolher na lista [Operações básicas](https://neps.academy/br/exercises-table?subject=48)
