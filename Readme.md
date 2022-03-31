@@ -29,13 +29,7 @@
     - Faça alguns dos códigos do vídeo no seu computador ou IDE online.
 
 ## S02 - Perfil e Primeiros exercícios
-- [ ] Perfil: Me manda uma mensagem pelo Telegram no privado @senapk informando.
-    - A disciplina que está cursando.
-    - Nome completo.
-    - Se é a primeira vez na disciplina ou se não, porque reprovou das outras vezes.
-    - Se seu perfil não tiver sua foto, me manda uma foto decente.
-    - Seu experiência, afinidade ou dificuldade com programação.
-    - Possíveis dificuldades/desafios extras que você tenha: não tem notebook, internet, ritalina, diazepan, etc.
+- [ ] Perfil: Me manda uma mensagem pelo Telegram no privado @senapk informando os [seguintes dados](pages/perfil.md#dados).
 - [ ] Assita os vídeos sobre **Variáveis** e sobre **Entrada e Saída** da playlist da disciplina no youtube.
-- [ ] Se inscreva no [Neps Academy](https://neps.academy/) e faça os seguintes [exercícios](pages/intro_neps.md).
-- Se quiser fazer outros livremente, pode escolher na lista [**Operações básicas**](https://neps.academy/br/exercises-table?subject=48)
+- [ ] Se inscreva no [Neps Academy](https://neps.academy/) e faça os seguintes [exercícios](pages/intro_neps.md#exercícios-iniciais).
+- Se quiser fazer outros livremente, pode escolher na lista [Operações básicas](https://neps.academy/br/exercises-table?subject=48)
