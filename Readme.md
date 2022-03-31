@@ -5,7 +5,7 @@
 - [Recursos Fundamentos de Programação](#recursos-fundamentos-de-programação)
 - [Cursos completos de C++ do youtube em português](#cursos-completos-de-c-do-youtube-em-português)
 - [S01 - Introdução](#s01---introdução)
-- [S02](#s02)
+- [S02 - Perfil e Primeiros exercícios](#s02---perfil-e-primeiros-exercícios)
 <!--TOC_END-->
 
 ## Links
