@@ -11,6 +11,7 @@
 ## Links
 - [Telegram](https://t.me/+zrcrLWObex8wZmNh)
 - [Planilha de Notas e Presença](https://docs.google.com/spreadsheets/d/10udv5GJ-QYqle78bvm2Tummfaj-0EYOPsiLPEKzOpuw/edit?usp=sharing)
+- [Planilha de exercícios do Moodle](https://docs.google.com/spreadsheets/d/1z-SvdHu27oY7rrm-F-2wQDb1HggVydeIlwcvKOOMGRQ/edit#gid=710861159)
 - [Playlist da disciplina no Youtube](https://youtube.com/playlist?list=PLqwyjBSVOHRzfXMEJR63RT56ROtk5f6tN)
 
 ## Recursos Fundamentos de Programação
