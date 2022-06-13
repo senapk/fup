@@ -19,7 +19,6 @@ Vamos fazer um paralelo entre
 
 [](save)[](_vec1.cpp)
 ```cpp
-// UTILIZANDO VECTOR
 #include <iostream>
 #include <vector>
 int main() {
@@ -43,7 +42,6 @@ int main() {
 
 [](save)[](_vec2.cpp)
 ```cpp
-// UTILIZANDO ARRAY
 #include <iostream>
 int main() {
     int size { };
@@ -86,7 +84,6 @@ ___
 
 [](save)[](_impares1.cpp)
 ```cpp
-// UTILIZANDO ARRAY
 #include <iostream>
 #include <vector>
 using namespace std;
