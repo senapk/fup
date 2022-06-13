@@ -17,7 +17,7 @@ Vamos fazer um paralelo entre
 
 ### VECTOR
 
-[](save)[](vec2.cpp)
+[](save)[](_vec1.cpp)
 ```cpp
 // UTILIZANDO VECTOR
 #include <iostream>
@@ -41,7 +41,7 @@ int main() {
 
 ### ARRAY
 
-[](save)[](vec1.cpp)
+[](save)[](_vec2.cpp)
 ```cpp
 // UTILIZANDO ARRAY
 #include <iostream>
@@ -84,7 +84,7 @@ ___
 
 ### VECTOR
 
-[](save)[](impares2.cpp)
+[](save)[](_impares1.cpp)
 ```cpp
 // UTILIZANDO ARRAY
 #include <iostream>
@@ -143,7 +143,7 @@ vector<int> get_impares(vector<int> vet) {
 
 ### ARRAY
 
-[](save)[](impares1.cpp)
+[](save)[](_impares2.cpp)
 ```cpp
 #include <iostream>
 

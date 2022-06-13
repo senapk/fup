@@ -42,7 +42,7 @@ Seja como entrada o número de linhas e de colunas seguidos dos elementos da mat
 ```
 ___
 ### Array
-[](save)[](mat1.cpp)
+[](save)[](_mat1.cpp)
 ```cpp
 #include <iostream>
 
@@ -76,7 +76,7 @@ void show(int mat[], int nl, int nc) {
 
 ___
 ### Vector
-[](save)[](mat2.cpp)
+[](save)[](_mat2.cpp)
 ```cpp
 #include <iostream>
 #include <vector>
@@ -149,7 +149,7 @@ Leia um número N, crie uma matriz N x N de zeros e modifique dessa forma:
 
 Vamos reutilizar parte do código anterior.
 
-[](save)[](mat3.cpp)
+[](save)[](_mat3.cpp)
 ```cpp
 #include <iostream>
 #include <vector>
@@ -241,7 +241,7 @@ Esse problema, para ficar simples exige algumas técnicas:
 - de como percorrer todos os vizinhos de um pontos.
 - de como verificar se o vizinho existe antes de verificar seu valor.
 
-[](save)[](mat4.cpp)
+[](save)[](_mat4.cpp)
 ```cpp
 #include <iostream>
 #include <vector>
