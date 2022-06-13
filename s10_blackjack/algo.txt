@@ -1,0 +1,16 @@
+mao = []
+// mao = escolhe_dois
+// mesa = escolhe_dois
+
+// laco jogador
+//     mostrar_mao
+//     perguntar puxar ou parar
+//     puxar
+//         adiciona carta
+//     se estourar
+//         perder
+// laco mesa
+//     enquanto nao ganhar
+//         continue puxando
+//     se estourar
+//         acabou
